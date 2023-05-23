@@ -1,2 +1,2 @@
 # Data-Visualization
-columns and apply various Pandas functions, and then visualize our results through line charts, stacked bar charts and pie charts with MatPlotLib.
+Welcome to my first beginner-friendly Python and Data Science project that’s all about analyzing and visualizing current COVID-19 data. We’re focused on building 3 complete charts that will analyze both Worldwide trends and insights from a country of your choosing.To analyze our CSV with Pandas, manipulate columns and apply various Pandas functions, and then visualize our results through line charts, stacked bar charts and pie charts with MatPlotLib.
